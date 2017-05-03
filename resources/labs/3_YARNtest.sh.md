@@ -8,8 +8,8 @@ HADOOP=/opt/cloudera/parcels/CDH/bin
 # Mark start of the loop
 echo Testing loop started on `date`
 
-mapper_count="4 8 16"
-reducer_count="1 2 4 8"
+mapper_count="4 16"
+reducer_count="1 8"
 memory="512 1024"
 
 echo "Mapper count: " $mapper_count
