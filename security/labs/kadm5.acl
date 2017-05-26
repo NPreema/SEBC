@@ -3,3 +3,4 @@
 cloudera-scm@servian.com admilc
 ```
 
+It's widely accepted (and expected) that Kerberos realms are all upper case (e.g., SERVIAN.COM).
